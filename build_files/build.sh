@@ -11,12 +11,13 @@ set -ouex pipefail
 
 # this installs a package from fedora repos
 dnf5 install -y \
-  tmux \
-  btop \
   atop \
-  powertop \
+  btop \
   fish \
-  htop
+  htop \
+  nebula \
+  powertop \
+  tmux
 
 # Use a COPR Example:
 #
