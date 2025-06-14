@@ -13,6 +13,7 @@ set -ouex pipefail
 dnf5 install -y \
   atop \
   btop \
+  et \
   fish \
   htop \
   nebula \
@@ -29,3 +30,5 @@ dnf5 install -y \
 #### Example for enabling a System Unit File
 
 systemctl enable podman.socket
+systemctl enable nebula.service
+systemctl enable powertop.service
