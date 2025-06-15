@@ -18,6 +18,7 @@ dnf5 install -y \
   htop \
   nebula \
   powertop \
+  python3-devel \
   tmux
 
 # Use a COPR Example:
