@@ -16,10 +16,12 @@ dnf5 install -y \
   et \
   fish \
   htop \
+  intel-undervolt \
   nebula \
   powertop \
   python3-devel \
-  tmux
+  tmux \
+  wavemon
 
 # Use a COPR Example:
 #
