@@ -18,6 +18,7 @@ dnf5 install -y \
   htop \
   intel-undervolt \
   nebula \
+  niri \
   powertop \
   python3-devel \
   tmux \
