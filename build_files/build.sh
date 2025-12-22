@@ -18,8 +18,7 @@ dnf5 install -y \
   nebula \
   niri \
   podlet \
-  python3-devel \
-  wavemon
+  python3-devel
 
 # Use a COPR Example:
 #
