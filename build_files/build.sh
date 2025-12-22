@@ -14,15 +14,11 @@ dnf5 install -y \
   atop \
   btop \
   et \
-  fish \
-  htop \
   intel-undervolt \
   nebula \
   niri \
   podlet \
-  powertop \
   python3-devel \
-  tmux \
   wavemon
 
 # Use a COPR Example:
