@@ -17,8 +17,10 @@ dnf5 install -y \
   intel-undervolt \
   nebula \
   niri \
+  nmap \
   podlet \
-  python3-devel
+  python3-devel \
+  syncthing
 
 # Use a COPR Example:
 #
